@@ -1,0 +1,22 @@
+{
+  "name": "podcasts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["nextjs","react"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "next": "^7.0.2",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  },
+  "homepage": "https://github.com/josepernia91/podcasts-nextjs"
+}
